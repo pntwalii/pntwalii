@@ -11,7 +11,7 @@
 **`🚀 I am a Self-taught Tech Enthusiast 👨‍💻`** <br/>
 **`⛳ I build things that live on the web, plus I can fix a printer too 😁`**<br/>
 **`👉 I'm a passionate learner, always eager to master new skills 💯`**<br/>
-**`💼 Currently working as SAP Software Engineer at`** [**`DCCS IT Business Solutions`**](https://dccs.eu)
+**`💼 Currently working as SAP Software Engineer`** 
 
 <!-- ### 🛝 Environment:
 
