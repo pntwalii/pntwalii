@@ -40,6 +40,9 @@
       <a href='https://support.hp.com/id-en/document/c05997454' target='_blanket'>
         <img src="https://img.shields.io/badge/Elitebook 💻-blue?style=for-the-badge&logo=hp&logoColor=white" alt="HP Badge"/>
       </a>
+      <a href='https://www.samsung.com/us/smartphone' target='_blanket'>
+       <img src="https://img.shields.io/badge/Samsung📱-grey?style=for-the-badge&logo=samsung&logoColor=white" alt="Pixel Badge"/>
+     </a>
     </td>
   </tr>
 </table>
