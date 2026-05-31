@@ -13,9 +13,8 @@
 **`👉 I'm a passionate learner, always eager to master new skills 💯`**<br/>
 **`💼 Currently working as SAP Software Engineer`** 
 
-<!-- ### 🛝 Environment:
+### 🛝 Environment:
 
--->
 <table border = '0'>
   <tr>
     <th>🛝 Environment:</th>
@@ -47,7 +46,8 @@
   </tr>
 </table>
 
-![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=pntwalii&hide=contribs,prs)
+### 🏗️ Streaks:
+![Ntwali's GitHub stats](https://github-readme-stats-fast.vercel.app/api/streak/?username=pntwalii&hide=contribs,prs&show_icons=true&theme=merko)
 
 
 <p align="center">
