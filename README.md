@@ -13,11 +13,11 @@
 **`👉 I'm a passionate learner, always eager to master new skills 💯`**<br/>
 **`💼 Currently working as SAP Software Engineer`** 
 
-### 🛝 Environment:
+### 🛝 What I use:
 
 <table border = '0'>
   <tr>
-    <th>🛝 Environment:</th>
+    <th>🏃🏾‍➡️ I run on:</th>
     <th>📲 Devices:</th>
   </tr>
   <tr>
