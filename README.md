@@ -47,7 +47,7 @@
   </tr>
 </table>
 
-![Ntwali's GitHub stats](https://github-readme-stats.vercel.app/api?username=pntwalii&hide=contribs,prs)
+![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=pntwalii&hide=contribs,prs)
 
 
 <p align="center">
